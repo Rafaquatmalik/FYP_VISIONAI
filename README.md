@@ -38,7 +38,6 @@ Visually impaired person will signup in our application.
 
 step#2
 After login they can use the functionalities provided by the app.
-
 step#2
 After login they can use the functionalities provided by the app.
 step#3
@@ -48,7 +47,7 @@ Text Recognition:
 Visually impaired person will click on the text recognition button. It will open camera.Visually impaired person will capture image. The app will provide audio feedback on the text recognized.
 Customize Mapping:
 When visually impaired person will click on the customize mapping button.It will open map screen where the visually impaired person can define his geofence and save the coordinates into the database. The audio feedback would be provided throughout this whole process.
-USer Alert:
+User Alert:
 When Visually impaired person will go out of bounds of save region, the app will provide a realtime alert warning him about the exit from the saved geofence.
 SOS Alert:
 When the visually impaired person is in emergency. He will press the SOS alert button. A message will be sent to the number which he provided while he registers into the app.
@@ -56,5 +55,14 @@ Current Location:
 When the visually impaired person will click on the current location button. The app will tell him his current Location by the audio aloud.
 Update Number: Visually impaired person can change his number by the update number functionality.
 
+
 The audio feedback will be provided when the user naviagates to a screen and clicks on the button.
+
+
+
+
+
+
+
+
 
