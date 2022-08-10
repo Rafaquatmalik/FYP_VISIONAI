@@ -21,14 +21,16 @@ This purpose of this project is to provide an intelligent feedback system (A rea
 6.  Text Recognition(on captured images)
 7.  Integration with the text to speech library for realtime audio feedback
 
-# Project VISION AI Group Members:1)Malik Rafaquat-1812118,(2)Muhammad Usama-1812137
-Installation:1)Vs Code 2)android studio 
+## Installation
+1)Vs Code 
+2)android studio 
 step-1:npm install
 step-2:react-native run android
-step-3:show output and now you can use easily this application.
+step-3: The app is running now and you can use easily this application.
 
-!!.......Our Final Project is based on mobile application.......................!!
+!!.......Working of Project.......................!!
 It works something like thes steps
+
 step#1
 Visually impaired person will signup in our application.
 step#2
