@@ -21,7 +21,7 @@ This purpose of this project is to provide an intelligent feedback system (A rea
 6.  Text Recognition(on captured images)
 7.  Integration with the text to speech library for realtime audio feedback
 
-## Installation
+## Installation and Running
 1.  VS Code
 2.  Android Studio
 3.  Node JS
@@ -30,11 +30,15 @@ This purpose of this project is to provide an intelligent feedback system (A rea
 6.  npx react-native run-android
 7.  The app is running now and you can use easily this application.
 
-!!.......Working of Project.......................!!
+## Working of Project
 It works something like thes steps
 
 step#1
 Visually impaired person will signup in our application.
+
+step#2
+After login they can use the functionalities provided by the app.
+
 step#2
 After login they can use the functionalities provided by the app.
 step#3
