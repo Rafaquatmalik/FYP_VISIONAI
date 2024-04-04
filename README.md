@@ -8,18 +8,18 @@
 
 ## Project Description
 
-This purpose of this project is to provide an intelligent feedback system (A reactnative android App) for visually impaired person, we enjoyed and learned alot while making this project.
+The purpose of this project is to provide an intelligent feedback system (A reactive Android app) for visually impaired people, we enjoyed and learned a lot while making this project.
 
 
 ## Features of The Project
 
 1.  Classifying of Common Objects(object detection in realtime video)
 2.  SOS Alert
-3.  Customize mapping of save region using geofencing
-4.  User Alert in case of out of bounds of geofence.
+3.  Customize mapping of the saved region using geofencing
+4.  User Alert in case of out-of-bounds geofence.
 5.  Current Location
 6.  Text Recognition(on captured images)
-7.  Integration with the text to speech library for realtime audio feedback
+7.  Integration with the text-to-speech library for real-time audio feedback
 
 ## Installation and Running
 1.  VS Code
