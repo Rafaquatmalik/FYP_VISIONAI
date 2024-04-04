@@ -29,3 +29,6 @@ The purpose of this project is to provide an intelligent feedback system (A reac
 5.  npx react-native start
 6.  npx react-native run-android
 7.  The app is running now and you can use easily this application.
+
+8.  ## Final Year Project Report
+9.  https://drive.google.com/file/d/15mZuVcKd_3e7zTIj48Xy3rllhC-n4bpz/view?usp=sharing
